@@ -1,0 +1,9 @@
+name: CompPhys
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - scipy
+  - pywin32
+prefix: E:\Anaconda\envs\CompPhys
